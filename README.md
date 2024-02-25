@@ -1,2 +1,3 @@
 # NEWREPO-Demo2
-These is My Second Git Repository
+These is My Second Git Repository.
+AUTHOR- PENCIL PARDASARADI
